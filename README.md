@@ -1,6 +1,6 @@
 # Peggy Front End
 
-This is the repository for the Peggy Cellars frontend. Name of the repo can be considered a working title.
+This is the repository for the Peggy Cellars frontend.
 
 ### Requirements:
 - [ ] Landing page 
